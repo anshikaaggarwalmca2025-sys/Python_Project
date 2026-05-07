@@ -21,4 +21,3 @@ I am an **MCA student** at **MIET** with a **Bachelor of Commerce** background. 
 1. Open the `.ipynb` file in this repository.
 2. Open it in **Google Colab**.
 3. Run the cells to see the data generation and analysis in real-time.
-  
