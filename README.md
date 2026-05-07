@@ -1,4 +1,4 @@
-# Financial Fraud Analysis (100k Records)
+# Financial Fraud Detection System (100k Records)
 
 ## 📊 Project Overview
 This project involves the analysis of a large-scale financial dataset containing **100,000 transactions**. Using **Python** and **Pandas**, I identified patterns of fraudulent activity and visualized the results to provide actionable insights.
